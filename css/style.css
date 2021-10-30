@@ -1,0 +1,241 @@
+*{
+	padding: 0;
+	margin: 0;
+	outline: 0;
+}
+ul,ol{
+	list-style: none;
+}
+
+a:hover,
+a{
+	text-decoration: none;
+}
+
+header{
+	background-color: #0872b9;
+	color: #fff;
+	padding-top: 11px;
+}
+.container{
+	margin: 0 auto;
+	max-width: 80%;
+}
+.navbar{
+	height: 80px;
+	/*background:#fcdb00;*/
+	line-height: 80px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+
+body{	
+	font-family: 'PT Sans';
+}
+.navbar-nav .nav-item .nav-link{
+	color: #000;
+	padding: 0 15px;
+	font-size: 45px;
+	padding: 0 77px;
+	font-family: 'PT Sans';
+	font-weight: 700;
+	transition: all linear .3s;
+
+}
+.navbar-nav .nav-item .nav-link:hover{
+	color: #fff;
+	transition: all linear .3s;
+}
+
+
+/*bnr css part start here*/
+
+#banr_part{
+	/*padding-top: 80px;*/
+}
+.banr_overlay{
+	padding: 200px 0;
+	background-color: rgba(252, 219, 0, 0.85);
+}
+.bnr_cont{
+	text-align: left;
+	margin: 0 10px;
+}
+.bnr_cont h3{
+	font-family: 'PT Sans';
+	font-weight: 700;
+	font-size: 45px;
+}
+.bnr_cont h4{
+	font-family: 'PT Sans';
+	font-weight: 400;
+	font-size: 24px;
+	color: #313841;
+	padding: 30px 0;
+}
+.bnr_cont ul i{
+	/*color: #fff;*/
+	font-size: 40px;
+    padding: 10px 10px;
+    
+}
+.bnr_cont ul i:hover{
+	/*color: #fff;*/
+	
+    transform: translateY(-10px);
+}
+
+
+/*bnr css part start here*/
+
+/*tny_ftrs css part start here*/
+#Tny_ftrs{
+	padding: 120px 0;
+	
+}
+.tny_cont h3{
+	font-family: 'PT Sans';
+	font-weight: 700;
+	font-size: 45px;
+	text-align: center;
+}
+.tny_cont p{
+	font-family: 'PT Sans';
+	font-weight: 400;
+	font-size: 22px;
+	color: #313841;
+	text-align: center;
+	padding-bottom: 90px;
+}
+.icon{
+	float: right;
+	font-size: 50px;
+	padding-bottom: 90px;
+
+}
+.icon_cont h3{
+	font-family: 'PT Sans';
+	font-weight: 700;
+	font-size: 50px;
+	padding-bottom: 90px;
+}
+.icon_cont p{
+	font-family: 'PT Sans';
+	font-weight: 400;
+	font-size: 20px;
+	color: #c4c4c4;
+	padding-bottom: 90px;
+}
+
+/*tny_ftrs css part start here*/
+
+/*keep_touch html part start here */
+
+#keep_touch{
+	background: #000;
+
+}
+
+.kep_cont h3{
+	font-family: 'PT Sans';
+	font-weight: 700;
+	font-size: 45px;
+	text-align: center;
+	color: #fcdb00;
+	padding-top: 100px;
+}
+.kep_cont p{
+	font-family: 'PT Sans';
+	font-weight: 400;
+	font-size: 22px;
+	color: #313841;
+	text-align: center;
+	padding-bottom: 42px;
+	color: #676767;
+}
+.form_btn{
+	padding-top: 6px;
+}
+.form_btn a{
+	text-align: center;
+    color: #edeff1;
+    padding: 10px 36px;
+    text-decoration: none;
+    background-color: transparent;
+    background: #c9a131;
+    align-items: center;
+    /*margin: 0 30%;*/
+    font-size: 16px;
+    font-family: 'PT Sans';
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 5px; 
+}
+.form_icon{
+	margin: 0 160px;
+}
+
+.form_icon ul i{
+	font-size: 20px;
+	background-color: #fcdb00;
+	padding: 10px 15px;
+	border-radius: 5px;
+	margin: 80px 30px;
+}
+
+.form_icon ul i:hover{
+
+	/*transform: translateX(-20px);*/
+	transform: translateY(20px);
+}
+/*keep_touch html part end here */
+
+/*footer part css start here*/
+#ftr_part{
+	background: #000;
+	padding: 130px  0;
+	color: #fff;
+}
+
+
+
+
+
+/*footer part css end here*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
